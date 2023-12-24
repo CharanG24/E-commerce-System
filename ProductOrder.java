@@ -1,5 +1,3 @@
-// Sri Charan Gurrala
-// 501131205
 
 /*
  * class ProductOrder defines an order of a specific product by a customer
