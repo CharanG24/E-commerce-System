@@ -1,5 +1,4 @@
-// Sri Charan Gurrala
-// 501131205
+
 
 public class CartItem  {
     private Product product;
