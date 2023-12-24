@@ -1,9 +1,5 @@
 
 
-// Sri Charan Gurrala
-// 501131205
-
-
 /*
  * class Product defines a product for sale by the system. 
  * 
